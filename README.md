@@ -1,3 +1,3 @@
-<p>IEEE Balıkesir University unity workshop asset store</p>
+<p>Balıkesir University IEEE Computer Society Unity Workshop Asset Store</p>
 
  
